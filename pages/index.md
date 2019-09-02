@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Liam Murphy
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  A Product Designer trying to make Bitcoin accessible to the masses at [Donut](https://donut.app).
 ---
